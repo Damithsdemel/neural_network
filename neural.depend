@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575994371 source:c:\users\damithz\documents\c\new folder\neural\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
